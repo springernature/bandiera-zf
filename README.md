@@ -4,6 +4,7 @@ This integrates [bandiera](https://github.com/springernature/bandiera) for using
 
 This module relies on the [bandiera PHP client](https://github.com/springernature/bandiera-client-php).
 
+[![Build status][shield-build]][info-build]
 [![MIT licensed][shield-license]][info-license]
 
 ## Installation
