@@ -1,6 +1,8 @@
 # Bandiera Zend Framework Integration
 
-This integrates [bandiera](https://github.com/springernature/bandiera) for using feature flags in your applications. This module relies on the [bandiera PHP client](https://github.com/springernature/bandiera-client-php).
+This integrates [bandiera](https://github.com/springernature/bandiera) for using feature flags in your applications. 
+
+This module relies on the [bandiera PHP client](https://github.com/springernature/bandiera-client-php).
 
 [![MIT licensed][shield-license]][info-license]
 
@@ -61,4 +63,6 @@ Bandiera Zend Framework Integration is licensed under the [MIT License][mit].
 
 [mit]: http://opensource.org/licenses/mit-license.php
 [info-license]: LICENSE
+[info-build]: https://travis-ci.org/springernature/bandiera-zf
 [shield-license]: https://img.shields.io/badge/license-MIT-blue.svg
+[shield-build]: https://img.shields.io/travis/springernature/bandiera-zf/master.svg

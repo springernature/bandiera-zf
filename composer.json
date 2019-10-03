@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^7.1",
+        "php": "^7.2",
         "container-interop/container-interop": "^1.1",
         "zendframework/zend-stdlib": "^3.1",
         "zendframework/zend-modulemanager": "^2.7",
