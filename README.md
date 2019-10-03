@@ -60,4 +60,5 @@ This module also expose a `featureFlags` view helper. In a template the view hel
 Bandiera Zend Framework Integration is licensed under the [MIT License][mit]. 
 
 [mit]: http://opensource.org/licenses/mit-license.php
+[info-license]: LICENSE
 [shield-license]: https://img.shields.io/badge/license-MIT-blue.svg
