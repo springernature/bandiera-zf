@@ -61,4 +61,6 @@ Bandiera Zend Framework Integration is licensed under the [MIT License][mit].
 
 [mit]: http://opensource.org/licenses/mit-license.php
 [info-license]: LICENSE
+[info-build]: https://travis-ci.org/springernature/bandiera-zf
 [shield-license]: https://img.shields.io/badge/license-MIT-blue.svg
+[shield-build]: https://img.shields.io/travis/springernature/bandiera-zf/master.svg
