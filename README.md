@@ -6,6 +6,7 @@ This module relies on the [bandiera PHP client](https://github.com/springernatur
 
 [![Build status][shield-build]][info-build]
 [![MIT licensed][shield-license]][info-license]
+[![Total Downloads](https://poser.pugx.org/springernature/bandiera-zf/downloads)](https://packagist.org/packages/springernature/bandiera-zf)
 
 ## Installation
 
