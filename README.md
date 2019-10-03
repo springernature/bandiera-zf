@@ -1,6 +1,8 @@
 # Bandiera Zend Framework Integration
 
-This integrates [bandiera](https://github.com/springernature/bandiera) for using feature flags in your applications. This module relies on the [bandiera PHP client](https://github.com/springernature/bandiera-client-php).
+This integrates [bandiera](https://github.com/springernature/bandiera) for using feature flags in your applications. 
+
+This module relies on the [bandiera PHP client](https://github.com/springernature/bandiera-client-php).
 
 [![MIT licensed][shield-license]][info-license]
 
